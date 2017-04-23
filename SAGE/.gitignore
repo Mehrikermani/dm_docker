@@ -1,0 +1,6 @@
+*.pyc
+.git
+.project
+.pydevproject
+.dockerignore
+.DS_Store
